@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datos y caché del notebook
+*.npz
+gtzan_dataset/
+*.pth
