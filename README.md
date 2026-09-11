@@ -62,4 +62,4 @@ signals*, IEEE TSAP, 2002.
 
 ## Contacto
 
-IIMAS, UNAM — [omarvlo@comunidad.unam.mx]
+IIMAS, UNAM — omarvlo@comunidad.unam.mx
